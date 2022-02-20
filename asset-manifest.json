@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-youtube/static/css/main.e16c01bd.css",
+    "main.js": "/portfolio-youtube/static/js/main.29d398f3.js",
+    "static/media/memoji.png": "/portfolio-youtube/static/media/memoji.e91e1c2d235ee12a7a78.png",
+    "index.html": "/portfolio-youtube/index.html",
+    "main.e16c01bd.css.map": "/portfolio-youtube/static/css/main.e16c01bd.css.map",
+    "main.29d398f3.js.map": "/portfolio-youtube/static/js/main.29d398f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16c01bd.css",
+    "static/js/main.29d398f3.js"
+  ]
+}
