@@ -23,7 +23,9 @@ function Card() {
           <div className="flex align-center justify-center mt-4">
             <a
               className="text-xl m-1 p-1 sm:m-2  sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300"
-              href="https://github.com/backslashflutter"
+              href="https://github.com/dante-san"
+              target="_blank"
+              rel="noopner noreferer"
             >
               <FaGithub />
               <span class="sr-only">GitHub</span>
@@ -31,7 +33,9 @@ function Card() {
 
             <a
               className="text-xl m-1 p-1 sm:m-2  sm:p-2 text-red-600 hover:bg-red-600 rounded-full hover:text-white transition-colors duration-300"
-              href="https://github.com/backslashflutter"
+              href="https://youtube.com/saiyanea"
+              target="_blank"
+              rel="noopner noreferer"
             >
               <FaYoutube />
               <span class="sr-only">YoutTube</span>
@@ -39,7 +43,9 @@ function Card() {
 
             <a
               className="text-xl m-1 p-1 sm:m-2  sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300"
-              href="https://github.com/backslashflutter"
+              href="https://twitter.com/sledgemaster2"
+              target="_blank"
+              rel="noopner noreferer"
             >
               <FaTwitter />
               <span class="sr-only">Twitter</span>
@@ -48,6 +54,8 @@ function Card() {
             <a
               className="text-xl m-1 p-1 sm:m-2  sm:p-2 text-teal-500 hover:bg-teal-500 rounded-full hover:text-white transition-colors duration-300"
               href="https://github.com/backslashflutter"
+              target="_blank"
+              rel="noopner noreferer"
             >
               <FaEnvelope />
               <span class="sr-only">Mail</span>

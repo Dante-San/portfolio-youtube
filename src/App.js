@@ -30,17 +30,14 @@ function App() {
         <Skills />
       </div>
       <div
-        data-aos="fade-up-right"
+        data-aos="fade-left"
         data-aos-duration="800"
         data-aos-delay="400"
+        data-aos-easing="ease-in-out"
       >
         <Contact />
       </div>
-      <div
-        data-aos="fade-up-right"
-        data-aos-duration="700"
-        data-aos-delay="500"
-      >
+      <div data-aos="fade-right" data-aos-duration="700" data-aos-delay="500">
         <Footer />
       </div>
     </div>
